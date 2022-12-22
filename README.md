@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <hr>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vignesh-thangamariappan&theme=gotham&border_radius=8&fire=DD2727)](https://git.io/streak-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=vignesh-thangamariappan&theme=gotham&border_radius=8&fire=DD2727" alt="vignesh-thangamariappan" /></p>
+
